@@ -22,7 +22,15 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 
 ## 2) Conociendo Git 
+Git es una herramienta de control de versiones distribuida que facilita la administración de cambios en los archivos, conserva el historial completo del proyecto y permite el trabajo colaborativo sin riesgo de perder información.
 
+**¿En que nos puede ayudar?**
+
+1. **Control de versiones:** Permite registrar y volver a versiones anteriores del proyecto.
+2. **Trabajo en equipo:** Varios desarrolladores pueden colaborar en el mismo proyecto sin sobrescribir el trabajo de otros.
+3. **Ramas para desarrollo paralelo:** Facilita crear branches para probar nuevas funciones sin afectar el código principal.
+4. **Seguridad e integridad:** Cada cambio está identificado por un hash criptográfico, evitando pérdida o corrupción de datos.
+5. **Integración con herramientas y automatización:** Se conecta con plataformas como GitHub, GitLab y Bitbucket para revisión de código, CI/CD y despliegues automáticos.
 
 ## 3) Conociendo Github  
 
