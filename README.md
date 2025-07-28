@@ -18,7 +18,22 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 11. APAZA/CHAMBI, WILLIAM ELMER - QA
 
 ## 1) Conceptos Generales para Tener en Cuenta
-
+Al iniciar cualquier proyecto de desarrollo de software, es esencial comprender ciertos principios básicos. Estos conceptos nos ayudarán a estructurar el trabajo de forma más efectiva, establecer una comunicación fluida y optimizar el rendimiento del equipo. A continuación se detallan los elementos más relevantes:
+1.1 Repositorio:
+Espacio designado para guardar todo el código fuente de un proyecto, ubicado tanto en equipos locales como en plataformas digitales tipo GitHub. Simplifica el manejo de versiones y fomenta la colaboración entre los miembros del grupo de trabajo.
+1.2 Control de versiones (Versionamiento):
+Proceso que consiste en conservar un registro completo de todas las alteraciones aplicadas a los archivos del proyecto durante su desarrollo. Esta documentación permite rastrear qué modificaciones se implementaron, el momento exacto de su ejecución y la persona responsable de cada cambio, siendo crucial para coordinar el trabajo colaborativo, deshacer modificaciones problemáticas y supervisar la progresión del desarrollo. Git se posiciona como una de las herramientas más destacadas para ejecutar esta tarea, gracias a su efectividad y amplia adopción en el sector tecnológico.
+1.3 Branches (Ramas):
+Líneas de desarrollo paralelas e independientes del código principal que posibilitan la implementación de cambios sin comprometer la estabilidad del código base, permitiendo que cada desarrollador opere de manera independiente evitando interferencias.
+1.4 Commit:
+Registro que documenta las alteraciones aplicadas al proyecto. Todo commit incorpora una descripción específica que detalla con precisión las modificaciones realizadas.
+1.5 Push y Pull:
+- "Push": Transferir las modificaciones hacia el repositorio en la nube (GitHub).
+- "Pull": Obtener las actualizaciones más recientes del repositorio remoto hacia tu equipo local.
+1.6 README.md:
+Archivo que describe el propósito del proyecto, las instrucciones de implementación y los creadores responsables de su desarrollo. Habitualmente constituye el primer elemento que los usuarios consultan cuando exploran el repositorio.
+1.7 Comunicación:
+Resulta fundamental definir canales de comunicación específicos (como WhatsApp, Discord o Slack) y programar sesiones de trabajo cortas que faciliten la evaluación del avance y la resolución de interrogantes.
 
 
 ## 2) Conociendo Git 
