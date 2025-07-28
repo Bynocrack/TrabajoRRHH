@@ -470,51 +470,5 @@ flowchart LR
   Diagramas técnicos, arquitectura, flujos de trabajo.  
 
 ### Mermaid de las diapositivas de los roles
-# mermaid.md
-
-¡Bienvenido a este repositorio! Aquí encontrarás información sobre...
-
-## Diagrama de Arquitectura de Software
-
-```mermaid
-graph TD;
-A[Desarrollo de Software]
-
-A --> FE[FrontEnd]
-A --> BE[BackEnd]
-A --> QA[QA Testing]
-A --> AD[Android Development]
-
-FE --> FE1[Definición]
-FE --> FE2[Funciones]
-FE --> FE3[Tecnologías]
-
-BE --> BE1[Definición]
-BE --> BE2[Funciones]
-BE --> BE3[Tecnologías]
-
-QA --> QA1[Definición]
-QA --> QA2[Funciones]
-QA --> QA3[Tecnologías]
-
-AD --> AD1[Definición]
-AD --> AD2[Funciones]
-AD --> AD3[Tecnologías]
-
-click FE1 "[https://blog.hubspot.es/website/frontend-y-backend](https://blog.hubspot.es/website/frontend-y-backend)" _blank
-click FE2 "[https://medium.com/the-ledge/blog/desarrollador-front-end-funciones/](https://medium.com/the-ledge/blog/desarrollador-front-end-funciones/)" _blank
-click FE3 "[https://www.arsys.es/blog/frontend-que-es-y-para-que-se-utiliza-en-desarrollo-web](https://www.arsys.es/blog/frontend-que-es-y-para-que-se-utiliza-en-desarrollo-web)" _blank
-
-click BE1 "[https://blog.hubspot.es/website/frontend-y-backend](https://blog.hubspot.es/website/frontend-y-backend)" _blank
-click BE2 "[https://blog.hubspot.es/website/frontend-y-backend](https://blog.hubspot.es/website/frontend-y-backend)" _blank
-click BE3 "[https://aws.amazon.com/es/compare/the-difference-between-back-end-and-front-end/](https://aws.amazon.com/es/compare/the-difference-between-back-end-and-front-end/)" _blank
-
-click QA1 "[https://www.indeed.com/blog/que-es-un-qa-testing/](https://www.indeed.com/blog/que-es-un-qa-testing/)"
-click QA2 "[https://www.indeed.com/blog/que-es-un-qa-testing/](https://www.indeed.com/blog/que-es-un-qa-testing/)"
-click QA3 "[https://www.qaoncloud.com/blog/testing-qa](https://www.qaoncloud.com/blog/testing-qa)"
-
-click AD1 "[https://www.ibm.com/mx-es/think/topics/android-development](https://www.ibm.com/mx-es/think/topics/android-development)"
-click AD2 "[https://www.freelancermap.com/blog/es/que-hace-desarrollador-android/](https://www.freelancermap.com/blog/es/que-hace-desarrollador-android/)"
-click AD3 "[https://developer.android.com/studio/intro/android-app](https://developer.android.com/studio/intro/android-app)"
 
 [Enlace al diagrama en Mermaid](https://www.mermaidchart.com/app/projects/f5874fce-cb73-4493-bd73-31511908d7c5/diagrams/56548774-b1bf-4cab-bf5f-6c34c402f215/version/v0.1/edit).
