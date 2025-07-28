@@ -116,22 +116,22 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
 
 ## 4) Desarrollador Frontend
 • Responsabilidades principales:
-- Implementar interfaces de usuario responsivas y atractivas
-- Integrar APIs del backend con el frontend
-- Optimizar rendimiento del lado del cliente
-- Colaborar estrechamente con diseñadores UX/UI
-- Realizar pruebas de compatibilidad entre navegadores
+ - Implementar interfaces de usuario responsivas y atractivas
+ - Integrar APIs del backend con el frontend
+ - Optimizar rendimiento del lado del cliente
+ - Colaborar estrechamente con diseñadores UX/UI
+ - Realizar pruebas de compatibilidad entre navegadores
 • Tecnologías fundamentales:
-- HTML5, CSS3, JavaScript (ES6+)
-- Frameworks: React, Vue.js, Angular
-- Herramientas de desarrollo: webpack, Vite, npm/yarn
-- Preprocesadores CSS: Sass, Less
-- Bibliotecas UI: Bootstrap, Material-UI, Tailwind CSS
+ - HTML5, CSS3, JavaScript (ES6+)
+ - Frameworks: React, Vue.js, Angular
+ - Herramientas de desarrollo: webpack, Vite, npm/yarn
+ - Preprocesadores CSS: Sass, Less
+ - Bibliotecas UI: Bootstrap, Material-UI, Tailwind CSS
 • Recursos necesarios:
-- Editor de código (VS Code, WebStorm)
-- Navegadores web para pruebas
-- Herramientas de diseño (Figma, Adobe XD)
-- Computadora con mínimo 8GB RAM y procesador moderno
+ - Editor de código (VS Code, WebStorm)
+ - Navegadores web para pruebas
+ - Herramientas de diseño (Figma, Adobe XD)
+ - Computadora con mínimo 8GB RAM y procesador moderno
 
 
 ## 5) Links recomendados para capacitación Rol Frontend
