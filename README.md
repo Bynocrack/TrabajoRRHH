@@ -470,4 +470,4 @@ flowchart LR
   Diagramas técnicos, arquitectura, flujos de trabajo.  
 
 ### Mermaid de las diapositivas de los roles
-[Enlace al diagrama en Mermaid]([https://www.mermaidchart.com/app/projects/f5874fce-cb73-4493-bd73-31511908d7c5/diagrams/56548774-b1bf-4cab-bf5f-6c34c402f215/version/v0.1/edit]).
+[Enlace al diagrama en Mermaid](https://www.mermaidchart.com/app/projects/f5874fce-cb73-4493-bd73-31511908d7c5/diagrams/56548774-b1bf-4cab-bf5f-6c34c402f215/version/v0.1/edit).
