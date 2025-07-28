@@ -34,7 +34,63 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
 
 ## 3) Conociendo Github  
 
+- **Describiendo el uso de repositorio remoto:**  
+  Un repositorio remoto es una copia del proyecto alojada en la nube en lugar de estar únicamente en tu computadora. Plataformas como GitHub son muy utilizadas para este propósito, ya que permiten que cualquier integrante del equipo acceda al código, realice modificaciones y colabore desde cualquier lugar.
 
+- **¿Cómo definimos repositorio?**  
+  Un repositorio es un contenedor de archivos y carpetas de un proyecto, incluyendo su historial de versiones. Puede ser:
+  - **Repositorio local:** el que está en tu computadora.
+  - **Repositorio remoto:** el que se encuentra en GitHub.  
+    Los repositorios permiten:
+	-Almacenar el código del proyecto.
+	-Llevar control de versiones de los archivos.
+	-Trabajar en equipo sin interferencias.
+	-Compartir el proyecto fácilmente.
+	-Colaborar de forma remota.
+
+- **¿Cómo configurar para permitir al equipo colaborar?**  
+  1. **Crear el repositorio en Git Hub**  
+     - Un miembro del equipo crea el repositorio en GitHub.
+     - Puede ser público (visible para todos) o privado (solo miembros invitados pueden ver).
+
+  2. **Clonar el repositorio**  
+     Cada miembro del equipo debe clonar el repositorio remoto a su computadora:
+
+     ```bash
+     git clone https://github.com/usuario/proyecto.git
+     ```
+
+  3. **Agregar colaboradores**  
+     - Desde GitHub, ir a Settings > Collaborators.
+     - Invitar a los miembros del equipo con sus cuentas GitHub.
+
+  4. **Trabajar con ramas**  
+     Cada desarrollador puede trabajar en una rama para evitar conflictos:
+
+     ```bash
+     git checkout -b nueva-rama
+     ```
+
+     Luego se combinan los cambios al proyecto principal (main/master) mediante pull requests.
+
+- **Supervisión de posibles conflictos:**  
+  **¿Qué es un conflicto?**  
+  Ocurre cuando dos personas editan la misma parte de un archivo y Git no sabe cuál conservar.  
+
+  **Herramientas y prácticas para evitarlos:**
+  - Pull frecuente: Antes de trabajar, usar `git pull` para tener la última versión.
+  - Commits pequeños: Hacer cambios pequeños y claros.
+  - Mensajes claros en los commits: Para saber qué hizo cada persona.
+  - Revisar los Pull Requests: Antes de fusionar ramas, se revisan los cambios para detectar problemas.
+
+**Roles básicos en el desarrollo de aplicaciones web y móviles**  
+* **Project Manager:** coordina, planifica y supervisa las tareas del equipo de desarrollo.
+* **Diseñador UX/UI:** diseña la experiencia de uso y la apariencia visual del producto.
+* **Desarrollador Frontend:** implementa la parte visual y funcional con la que interactúa el usuario.
+* **Desarrollador Backend:** desarrolla la lógica interna, el manejo de datos y la comunicación con el servidor.
+* **Tester (QA):** prueba la aplicación para asegurar su correcto funcionamiento y detectar errores.
+* **DevOps:** optimiza, automatiza y administra los procesos de desarrollo, integración y despliegue.
+* **Scrum Master:** facilita el trabajo del equipo en metodologías ágiles, promoviendo buenas prácticas y resolución de obstáculos.
 
 ## 4) Desarrollador Frontend
 
