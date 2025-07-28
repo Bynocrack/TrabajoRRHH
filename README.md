@@ -104,7 +104,7 @@ Responsabilidades principales:
 6. Implementar funcionalidades específicas de móvil (cámara, GPS, sensores) 
 7. Gestionar el ciclo de vida de Activities y Fragments 
 8. Publicar aplicaciones en Google Play Store
-Habilidades requeridas: Kotlin/Java, Android Studio, Material Design, Room Database, Retrofit, Git, arquitectura MVVM
+- Habilidades requeridas: Kotlin/Java, Android Studio, Material Design, Room Database, Retrofit, Git, arquitectura MVVM
 
 
 
