@@ -1,4 +1,4 @@
-# 📚 Estudio de Roles Básicos en Desarrollo Web y Móvil
+# 📚 Estudio de Roles Básicos en Desarrollo Web y Móvi
 
 ##  Recurso Usen el Link odicial para aprender git /github Todos 
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
