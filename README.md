@@ -196,8 +196,51 @@ Git es una herramienta de control de versiones distribuida que facilita la admin
  -CodiHouse – Curso de Programación Backend I (América Latina) http://coderhouse.com/pe/cursos/programacion-backend-desarrollo-avanzado-de-backend?utm_source=chatgpt.com
 
 
+
 ## 8) Rol QA
 
+- **Descripción del rol:**  
+  El Quality Assurance se encarga de verificar que el software funcione correctamente, se asegura de que todo este correcto 
+  y cumpla con lo que se espera. Esto es clave para garantizar una buena experiencia y evitar fallas en la producción. 
+
+- **Habilidades requeridas:**
+  - Capacidad de ejecutar y diseñar planes de prueba
+  - Compromiso con la mejora continua
+  - Experiencia en ambientes de aseguramiento de calidad o testing
+  - Atención al detalle y pensamiento analítico
+  - Resolución de problemas y enfoque preventivo
+  - Buena comunicación para explicar fallos de forma clara y precisa
+  - Saber usar Git para colaborar con el equipo
+
+- **Relación con otros roles:**
+  - *Backend:* se debe validar que los datos fluyan correctamente, las APIs respondan como deben y también que todo el sistema sea estable bajo diferentes escenarios.
+  - *Frontend: * colaboran estrechamente para verificar que la interfaz web funcione correctamente, sea coherente con el diseño y funcione bien en lo diferentes navegadores y dispositivos.
+  - *Andorid: * se aseguran que las apps funcionen sin errores, haya una buena experiencia para el usuario y se vean bien en los diferentes modelos de teléfonos.
+
+- **Stack tecnológico:**
+  - *Lenguajes:*
+    - Kotlin
+    - Java
+    - Python
+    - JavaScript
+    - Ruby
+    - C#
+  
+  - *Frameworks / Librerías:*
+    - Selenium: Automatiza la navegación en páginas web simulando acciones de usuario.
+    - Cypress: Ideal para pruebas rápidas y modernas en aplicaciones web.
+    - Playwright: Permite probar en múltiples navegadores con gran flexibilidad.
+    - Appium: Automatiza pruebas de apps móviles en Android y iOS.
+    - Espresso: Herramienta oficial de Google para pruebas en Android.
+
+    - JUnit: Para pruebas unitarias en Java.
+    - TestNG: Alternativa avanzada a JUnit para pruebas más complejas.
+    - PyTest: Potente y simple para pruebas en Python.
+    - NUnit: Framework de pruebas unitarias para C# y .NET.
+
+    - Postman: Para probar manualmente APIs REST.
+    - Rest Assured: Automatiza pruebas de APIs en Java.
+    - SoapUI: Permite probar APIs REST y SOAP, común en entornos empresariales.
 
 
 
