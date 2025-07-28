@@ -2,7 +2,7 @@
 
 ##  Recurso Usen el Link odicial para aprender git /github Todos 
 https://docs.github.com/es/get-started/start-your-journey/git-and-github-learning-resources
-## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio *(actualizar)*
+## 0) Integrantes del equipo de estudio y sus responsabilidades en el repositorio
 
 0. MADUEÑO/MACEDO, JOSUE ALEXANDER - FRONTEND
 1. MACEDO/OROZCO, JAFET JOSHUA - FRONTEND
