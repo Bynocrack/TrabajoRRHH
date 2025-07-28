@@ -95,7 +95,16 @@ https://docs.github.com/es/get-started/start-your-journey/git-and-github-learnin
 
 
 ## 10) Desarrollador Android
-
+Responsabilidades principales: 
+1. Desarrollar aplicaciones móviles nativas para Android 
+2. Implementar interfaces de usuario siguiendo Material Design 
+3. Integrar APIs REST y servicios web 
+4. Optimizar rendimiento y consumo de batería 
+5. Manejar diferentes tamaños de pantalla y versiones de Android 
+6. Implementar funcionalidades específicas de móvil (cámara, GPS, sensores) 
+7. Gestionar el ciclo de vida de Activities y Fragments 
+8. Publicar aplicaciones en Google Play Store
+Habilidades requeridas: Kotlin/Java, Android Studio, Material Design, Room Database, Retrofit, Git, arquitectura MVVM
 
 
 
